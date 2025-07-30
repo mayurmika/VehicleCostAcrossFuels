@@ -1,0 +1,2 @@
+cd C:\Users\mayur\OneDrive\Desktop\MDS_DSBA_SELF_Learning\6_Streamlit_UI_Vehicle_Fuel_Selector
+streamlit run Fuel_compare_rev2.py
